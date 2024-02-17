@@ -1,9 +1,10 @@
 - ripgrep
+- wl-copy # Incase using hyprland, this is used to have a global clipboard
 - vscode-langservers-extracted
 - lazygit
 - neovim
   - 0.9 # Inlay hints will not work
-  - 0.10+ (Nightly Version) #If you want inlay hint to work
+  - 0.10+ (Nightly Version) # If you want inlay hint to work
 - node
 - npm
 - unzip
@@ -11,3 +12,6 @@
   - oh-my-zsh (Optional)
   - powerlevel10k (Optional)
 - Nerd Font (Optional, but highly recommended)
+- pywal (python-pywal) # Not yet used
+- rofi # Not yet used
+- imagemagick # Not yet used
