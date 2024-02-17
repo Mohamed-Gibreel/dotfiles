@@ -1,0 +1,13 @@
+- ripgrep
+- vscode-langservers-extracted
+- lazygit
+- neovim
+  - 0.9 # Inlay hints will not work
+  - 0.10+ (Nightly Version) #If you want inlay hint to work
+- node
+- npm
+- unzip
+- zsh (Optional)
+  - oh-my-zsh (Optional)
+  - powerlevel10k (Optional)
+- Nerd Font (Optional, but highly recommended)
